@@ -4,6 +4,9 @@
 
 This is a Discord Server cloner. It clones a Discord server and forwards all messages into another server. So you can see what are they up to, from the other side!
 
+![image](https://github.com/user-attachments/assets/a79bed96-4a92-4c23-90fc-a016ad80390d)
+
+
 ## Libraries used
 - hxWebSockets: Used to connect to the Discord gateway
 - Console.hx: Used to, pretty much use colors in the console
